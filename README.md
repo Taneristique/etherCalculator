@@ -1,0 +1,2 @@
+#Ether Calculator 
+A console application to make conversions between eth,wei,gwei.Users can convert to their ether to wei and gwei or they can convert their wei and gwei to ether.This application designed to simplifiy unit conversion. It specifically aimed to help ethereum network developers.
